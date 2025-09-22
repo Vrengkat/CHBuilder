@@ -1,17 +1,7 @@
 [
   {
-    "name": "Andrew",
-    "zip_url": "https://drive.google.com/uc?id=EXAMPLE_ANDREW_ZIP_ID&export=download",
-    "icon": "https://raw.githubusercontent.com/yourgithubrepo/path/to/andrew_icon.png"
-  },
-  {
-    "name": "Babaz",
-    "zip_url": "https://drive.google.com/uc?id=EXAMPLE_BABAZ_ZIP_ID&export=download",
-    "icon": "https://raw.githubusercontent.com/yourgithubrepo/path/to/babaz_icon.png"
-  },
-  {
-    "name": "Pete",
-    "zip_url": "https://drive.google.com/uc?id=EXAMPLE_PETE_ZIP_ID&export=download",
-    "icon": "https://raw.githubusercontent.com/yourgithubrepo/path/to/pete_icon.png"
+    "name": "AA Character pack",
+    "zip_url": "https://drive.google.com/file/d/1JZiLCG9iQrPSL0kPi1GzKVwsOn1p834G/view?usp=sharing",
+    "icon": "https://raw.githubusercontent.com/Vrengkat/CHBuilder/6312de388094a6f4d8278181ae8d9c2df2c586d0/test.jpg"
   }
 ]
