@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Nikola(Vrengkat Style)",
+    "zip_url": "https://www.dropbox.com/scl/fi/xiclel88xqz4wer0bv6y9/BB_Nikola.zip?rlkey=hm7u7w06viz6z4410hmtz7yzc&st=mxn6bwzv&dl=0",
+    "prefix": "BB",
+	"type": "Realistic",
+    "size": "3.24 MB",
+    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/BB_Nikola_icon.png"
+  },
+  {
+    "name": "Alish(Vrengkat Style)",
+    "zip_url": "https://www.dropbox.com/scl/fi/z5p0nc8g0bf1764tikwtv/AA_Alish.zip?rlkey=nts2jjqfowdzvgkxx9r8v00ee&st=47aljcjd&dl=0",
+    "prefix": "AA",
+	"type": "Cartoon",
+    "size": "3.84 MB",
+    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AA_Alish_icon.png"
+  },
+  {
+    "name": "Akira(Vrengkat Style)",
+    "zip_url": "https://www.dropbox.com/scl/fi/ckwd4qznsi5hptuswz6xg/AA_Akira.zip?rlkey=eqsngiisqb1ez4l43foice8mi&st=908tk2gc&dl=0",
+    "prefix": "AA",
+	"type": "Cartoon",
+    "size": "7.8 MB",
+    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AA_Akira_icon.png"
+  },
+  {
+    "name": "Akira2(Vrengkat Style)",
+    "zip_url": "https://www.dropbox.com/scl/fi/ckwd4qznsi5hptuswz6xg/AA_Akira.zip?rlkey=eqsngiisqb1ez4l43foice8mi&st=908tk2gc&dl=0",
+    "prefix": "AA",
+    "Premium": "true",
+	"type": "Cartoon",
+    "size": "7.8 MB",
+    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AA_Akira_icon.png"
+  },
+  {
+    "name": "Archy(Vrengkat Style)",
+    "zip_url": "https://www.dropbox.com/scl/fi/davp8vimaq2k19z3heua6/AA_Archy.zip?rlkey=m4iyw6o4031thrn1npchdddat&st=d0c8ygh1&dl=0",
+    "prefix": "AA",
+	"type": "Cartoon",
+    "size": "5.83 MB",
+    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AA_Archy_icon.png"
+  }
+]
