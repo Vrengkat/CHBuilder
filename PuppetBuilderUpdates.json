@@ -1,0 +1,11 @@
+[
+  {
+    "notification": "true",
+    "Heading": "New Update",
+    "Button": "Update your PuppetBuilder",
+	"link": "https://www.2dtools.com",
+	"Message": "This update comes with the following changes:",
+    "size": "3.24 MB",
+    "Image": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/BB_Nikola_icon.png"
+  }
+]
