@@ -1,6 +1,6 @@
 [
   {
-    "notification": "true",
+    "notification": "false",
     "Heading": "New Update",
     "Button": "Update your PuppetBuilder",
 	"link": "https://www.2dtools.com",
