@@ -37,14 +37,15 @@
     "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AA_Akira_icon.png"
   },
   {
-    "name": "Archy(Vrengkat Style)",
-    "zip_url": "https://www.dropbox.com/scl/fi/davp8vimaq2k19z3heua6/AA_Archy.zip?rlkey=m4iyw6o4031thrn1npchdddat&st=d0c8ygh1&dl=0",
-    "prefix": "AA",
-	"link": "https://www.2dtools.com",
-	"type": "Cartoon",
-    "size": "5.83 MB",
-    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AA_Archy_icon.png"
+    "name": "Trump(MM)",
+    "zip_url": "https://www.dropbox.com/scl/fi/0wqnrldbsoi6bybr3ofui/MM_Trump.zip?rlkey=9smt88a3wl9auqkved2ksnlfb&st=uej63q6y&dl=0",
+    "prefix": "MM",
+	"link": "https://2dtools.com/product/mmtrump/",
+	"type": "Realistic",
+    "size": "155 KB",
+    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/MM_Trump_icon.png"
   }
 ]
+
 
 
