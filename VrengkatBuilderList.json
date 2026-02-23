@@ -18,17 +18,17 @@
     "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AA_Alish_icon.png"
   },
   {
-    "name": "Akira(Vrengkat Style)",
+    "name": "Esther(AE)",
     "zip_url": "https://www.dropbox.com/scl/fi/ckwd4qznsi5hptuswz6xg/AA_Akira.zip?rlkey=eqsngiisqb1ez4l43foice8mi&st=908tk2gc&dl=0",
-    "prefix": "AA",
-	"link": "https://www.2dtools.com",
-	"type": "Cartoon",
-    "size": "7.8 MB",
-    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AA_Akira_icon.png"
+    "prefix": "AE",
+	"link": "https://2dtools.com/product/esther-ch-puppet-adobe-character-animator-puppet-clone/",
+	"type": "Realistic",
+    "size": "154 KB",
+    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AE_Esther_Icon.png"
   },
   {
     "name": "Lengret(FG)",
-    "zip_url": "https://www.dropbox.com/scl/fi/dhbof6o23kj8dsbmmq4o1/FF_Lengret.zip?rlkey=idbwr7mdxzuuabhxhdu2tbol2&st=cz7mfi4u&dl=0",
+    "zip_url": "https://www.dropbox.com/scl/fi/kkyfwjjs7bkzypl3p03ez/FF_Lengret.zip?rlkey=fbc40hewt3ah06s0lgf58t85l&st=58ewg00i&dl=0",
     "prefix": "FG",
 	"link": "https://2dtools.com/product/lengret-ch-puppet-adobe-character-animator-puppet/",
     "Premium": "true",
@@ -46,6 +46,7 @@
     "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/MM_Trump_icon.png"
   }
 ]
+
 
 
 
