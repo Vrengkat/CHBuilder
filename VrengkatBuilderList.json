@@ -9,13 +9,13 @@
     "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/BB_Nikola_icon.png"
   },
   {
-    "name": "Alish(Vrengkat Style)",
-    "zip_url": "https://www.dropbox.com/scl/fi/z5p0nc8g0bf1764tikwtv/AA_Alish.zip?rlkey=nts2jjqfowdzvgkxx9r8v00ee&st=47aljcjd&dl=0",
-    "prefix": "AA",
-	"link": "https://www.2dtools.com",
-	"type": "Cartoon",
-    "size": "3.84 MB",
-    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AA_Alish_icon.png"
+    "name": "Prisca(AR)",
+    "zip_url": "https://www.dropbox.com/scl/fi/jm0e3p0s18vihbit1xq4f/AR_Prisca.zip?rlkey=8hsy3pl54jdoo7uw5brv7fjq5&st=5trge2eo&dl=0",
+    "prefix": "AR",
+	"link": "https://2dtools.com/product/prisca-ch-puppet-adobe-character-animator-puppet/",
+	"type": "Realistic",
+    "size": "171.87 KB",
+    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AR_Prisca_Icon.png"
   },
   {
     "name": "Esther(AE)",
@@ -46,6 +46,7 @@
     "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/MM_Trump_icon.png"
   }
 ]
+
 
 
 
