@@ -6,7 +6,7 @@
 	"link": "https://www.2dtools.com",
 	"type": "Cartoony",
     "size": "1.34 MB",
-    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/BB_Nikola_icon.png"
+    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AlishMale_Icon.png"
   },
   {
     "name": "AlishFemale(AR)",
@@ -17,25 +17,16 @@
     "size": "837.87 KB",
     "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AA_Alish_icon.png"
   },
-  {
-    "name": "Esther(AE)",
-    "zip_url": "https://www.dropbox.com/scl/fi/ckwd4qznsi5hptuswz6xg/AA_Akira.zip?rlkey=eqsngiisqb1ez4l43foice8mi&st=908tk2gc&dl=0",
-    "prefix": "AE",
-	"link": "https://2dtools.com",
-	"type": "Realistic",
-    "size": "154 KB",
-    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/AE_Esther_Icon.png"
-  },
-  {
-    "name": "Lengret(FG)",
-    "zip_url": "https://www.dropbox.com/scl/fi/kkyfwjjs7bkzypl3p03ez/FF_Lengret.zip?rlkey=fbc40hewt3ah06s0lgf58t85l&st=58ewg00i&dl=0",
-    "prefix": "FG",
+	{
+    "name": "GlassesPack",
+    "zip_url": "https://www.dropbox.com/scl/fi/a2bgvsxgwyo2j9dbi3qn0/GlassesPack.zip?rlkey=amv9e8ga4adu65apno0xmfzjl&st=s7hwzab5&dl=0",
+    "prefix": "GP",
 	"link": "https://2dtools.com/",
-    "Premium": "true",
-	"type": "Cartoon",
-    "size": "152 KB",
-    "icon": "https://raw.githubusercontent.com/Vrengkat/ImagesForCHBuilder/refs/heads/main/FF_Lengret_Icon.png"
+	"type": "Cartoony",
+    "size": "837.87 KB",
+    "icon": "https://github.com/Vrengkat/ImagesForCHBuilder/blob/main/GlassesPack.png?raw=true"
   },
+  
   {
     "name": "Trump(MM)",
     "zip_url": "https://www.dropbox.com/scl/fi/pkipnurcmg11ffndi3khs/TrumpVAR.zip?rlkey=mb2li7uq0oxgps4s69sdjq1kg&st=44w07p50&dl=0",
